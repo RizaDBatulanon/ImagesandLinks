@@ -1,5 +1,4 @@
-<html>
-    <body>
+<body>
        <p> 
         <h3>Go to Wikipedia <a href = 'https://en.wikipedia.org/wiki/Wolf' target = _blanck> Click Here </a> </h3>
          
