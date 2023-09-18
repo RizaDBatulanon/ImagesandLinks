@@ -9,4 +9,3 @@
         <img 
             src = 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Kolm%C3%A5rden_Wolf.jpg' alt = 'A wolf picture'>
     </body>
-</hmtl>
