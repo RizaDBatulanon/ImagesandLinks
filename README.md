@@ -1,1 +1,13 @@
-# ImagesandLinks
+<html>
+    <body>
+       <p> 
+        <h3>Go to Wikipedia <a href = 'https://en.wikipedia.org/wiki/Wolf' target = _blanck> Click Here </a> </h3>
+         
+       </p>
+           
+
+    
+        <img 
+            src = 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Kolm%C3%A5rden_Wolf.jpg' alt = 'A wolf picture'>
+    </body>
+</hmtl>
